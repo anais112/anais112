@@ -1,6 +1,6 @@
 <h1 align="center">I'm <a href="https://github.com/anais112">Anais Araya</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! </h1>
+<h1>About Me!💌</h1>
 
 - 🏫: I'm a 4th year Industrial Civil Engineering student.
 - 💬: I'm interested in Data Analysis, Data Visualization and AI projects. 📊📈🤖
